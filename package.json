@@ -1,0 +1,17 @@
+{
+  "name": "blox-sign",
+  "version": "1.0.0",
+  "author": "@bkawk",
+  "license": "MIT",
+  "repository": "https://github.com/eosblox/blox-sign",
+  "description": "Signs and verify any data given a private key",
+  "main": "blox-sign.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
